@@ -1,0 +1,27 @@
+{
+    "name": "Soviet Girls TON #135",
+    "description": "A unique Soviet Girls NFT collection inspired by the Girls und Panzer anime and created especially for fans of Soviet cartoons and modern anime.",
+    "image": "135.png",
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Battlefield"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Blonde"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Headdress",
+            "value": "No"
+        },
+        {
+            "trait_type": "Hand raised",
+            "value": "No"
+        }
+    ]
+}
