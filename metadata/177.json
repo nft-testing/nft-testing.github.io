@@ -4,7 +4,7 @@
     "image": "https://nft-testing.github.io/metadata/177.png",
     "attributes": [
         {
-            "trait_type": "background",
+            "trait_type": "Background",
             "value": "Red"
         },
         {
